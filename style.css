@@ -14,6 +14,8 @@
 body {
 	background-image:url(images/subtle_white_mini_waves.png);
   margin: 0;
+	display: flex;
+	flex-direction: row;
 }
 
 header {
